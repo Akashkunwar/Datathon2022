@@ -1,0 +1,25 @@
+﻿Project Title
+	PhonePe Transaction Geo-Visualization
+	Technologies
+	EDA,Visualization
+	Domain
+	Fintech
+	
+
+Problem Statement:
+You are provided with PhonePe's quarter wise transaction history of the past 4 years pertaining to different categories of transaction. You're asked to develop a data frame & build a dashboard to visualize the transactions pertaining to each category in different locations.
+
+
+Approach:
+1. Data frame construction from the provided quarterly transactional data of past 4 years.
+2. Classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering & Data Visualization. 
+Results:
+Develop a dashboard to visualize the transactions of PhonePe with respect to various geographies. and Analyse some Facts and Figures for the Business Problem
+Dataset:
+Sample Dataset Link: Data Link
+About Dataset
+Provided data folder consists of quarterly transaction details of 4 years pertaining to various locations. You’re asked to construct a data frame by combining the given segments of data to carry out the further visualization process.
+Note: 
+After completion of all the task you need to create a PowerPoint presentation
+That should contain:
+Problem Statement  ||  Tools Used  ||  Approaches  ||  EDA Insights  ||  Best ML Model  ||  Evaluation Metrics of Model  ||  Future Development.
